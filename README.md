@@ -142,7 +142,7 @@ _Edit: after finishing this text I found two more examples of the planetary char
 
 [![more charts from other editions of De Sphaere](images/morecharts.jpg)](#knowhere)
 
-Is there any particular feature in this chart that would make it stand out among other possible domicile charts? The following are some of all possible mappings of 7 planets to their domiciles. Night and day domiciles are shown with black and white symbols, respectively, as defined in Naibod 1560 table above. There seems to be no particular intrinsic reason for the arrangement used in De Sphaere, however, borrowing from the discussion of Calendar models later, I've also marked on this chart the only (there is indeed only one) possible real-life configuration of the Sun, the Moon, Mercury and Venus where they all appear in their domiciles in the sky.
+Is there any particular feature in this chart from the 1494 and ~1500 editions that would make it stand out among other possible domicile charts? The following are some of all possible mappings of 7 planets to their domiciles. Night and day domiciles are shown with black and white symbols, respectively, as defined in Naibod 1560 table above. There seems to be no particular intrinsic reason for the arrangement used in De Sphaere, however, borrowing from the discussion of Calendar models later, I've also marked on this chart the only (there is indeed only one) possible real-life configuration of the Sun, the Moon, Mercury and Venus where they all appear in their domiciles in the sky.
 
 [![possible arrangements of planets in their domiciles](images/domicilecharts.jpg)](#knowhere)
 
