@@ -138,6 +138,10 @@ I've checked other editions of De Sphaere Mundi I could find online, including t
 
 [![charts from other editions of De Sphaere](images/otherbosco.jpg)](#knowhere)
 
+_Edit: after finishing text I found two following examples of the planetary chart in other editions of De Sphaere. [One from 1494](https://www.digitale-sammlungen.de/en/view/bsb00029417?page=9) shows the same domicile-based pattern I noticed in ~1500 edition. It even has the planet names spelled out, helps to remove any confusion about unreadable symbols. [The other from 1559](https://www.digitale-sammlungen.de/en/view/bsb11109883?page=7) shows an unremarkable pattern with all planets in sequence with no attempt to match the domiciles._
+
+[![more charts from other editions of De Sphaere](images/morecharts.jpg)](#knowhere)
+
 Is there any particular feature in this chart that would make it stand out among other possible domicile charts? The following are some of all possible mappings of 7 planets to their domiciles. Night and day domiciles are shown with black and white symbols, respectively, as defined in Naibod 1560 table above. There seems to be no particular intrinsic reason for the arrangement used in De Sphaere, however, borrowing from the discussion of Calendar models later, I've also marked on this chart the only (there is indeed only one) possible real-life configuration of the Sun, the Moon, Mercury and Venus where they all appear in their domiciles in the sky.
 
 [![possible arrangements of planets in their domiciles](images/domicilecharts.jpg)](#knowhere)
