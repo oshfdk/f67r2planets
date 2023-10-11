@@ -6,7 +6,7 @@ My favorite hypothesis on VMS writing is that it is a many-to-many character bas
 
 It is possible that a scheme like this would produce partially matching encoded text for the same plaintext, in character sequences or in structure. E.g., when encoding some word one of the outcomes could be BGGKLFGJ, another ACCKLFCJ, with G replaced by C and B by A and the rest of the letters remaining the same.
 
-So, after making a somewhat plausible astrological mapping between planet labels and planet names on f67r2, I've started poking around for other similar sequences of 7 labels in VMS. I've took what I thought was the tentative label for the Moon _yToaiin_ and searched for it in the transliteration of the manuscipt. The best match I found was _yToar_ on f72r3 (Cancer Zodiac). There are 7 nymphs walking/standing in the cental circle on this page, and there are 7 labels between the nymphs, _yToar_ being part of one of the labels. 
+So, after making a [somewhat plausible astrological](./README.md) mapping between planet labels and planet names on f67r2, I've started poking around for other similar sequences of 7 labels in VMS. I've took what I thought was the tentative label for the Moon _yToaiin_ and searched for it in the transliteration of the manuscipt. The best match I found was _yToar_ on f72r3 (Cancer Zodiac). There are 7 nymphs walking/standing in the cental circle on this page, and there are 7 labels between the nymphs, _yToar_ being part of one of the labels. 
 
 [![f72r3 with _yToar_ highlighted](images/f72r3ytoar.jpg)](#knowhere)
 
@@ -16,11 +16,11 @@ You can see the result on the following image. On the left hand side the labels 
 
 [![a comparison of labels from f67r2 and f72r3](images/f72r3labels.jpg)](#knowhere)
 
-What's interesting is if matched like this, the labels on f72r3 go exactly in the order of the brightness, except the Sun and the Moon are swapped. The order is: the Moon, the Sun, Jupiter, Venus, Mercury, Mars, Saturn. Which begs the question, is it possible that the Sun is _yToaiin_ and the Moon is _oFar_? This would explain why the moon faces for the Sun and the Moon are swapped on f67r2, maybe it's beucase the Sun is where the Moon is supposed to be and vice versa. Are there any medieval myths or stories where the Sun and the Moon switch places? Something apocalyptic maybe, explaning the explosion-like feature at the center of f67r2?
+As you can see, the match is not particularly striking, but what surprised me is that, if matched like this, the labels on f72r3 go exactly in the order of the brightness of the planets, except the Sun and the Moon are swapped. The order is: the Moon, the Sun, Jupiter, Venus, Mercury, Mars, Saturn. Which begs the question, is it possible that the Sun is _yToaiin_ and the Moon is _oFar_? This would explain why the moon faces for the Sun and the Moon are swapped on f67r2, maybe it's beucase the Sun is where the Moon is supposed to be and vice versa. Are there any medieval myths or stories where the Sun and the Moon switch places? Something apocalyptic maybe, explaning the explosion-like feature at the center of f67r2?
 
 [![apocalyptic f67r2](images/kaboom.jpg)](#knowhere)
 
-The resuling layout would be as follows, the sequence naturally starts with the nymph wearing a crown.
+The resulting layout would be as follows, the sequence neatly starts with the nymph wearing a crown.
 
 [![f72r3 labels layout](images/f72r3layout.jpg)](#knowhere)
 
