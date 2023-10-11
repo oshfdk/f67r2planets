@@ -16,11 +16,11 @@ You can see the result on the following image. On the left hand side the labels 
 
 [![a comparison of labels from f67r2 and f72r3](images/f72r3labels.jpg)](#knowhere)
 
-What's interesting is if matched like this, the labels on f72r3 go exactly in the order of the brightness, except the Sun and the Moon are swapped. The order is: the Moon, the Sun, Jupiter, Venus, Mercury, Mars, Saturn. Which begs the question, is it possible that the Sun is _yToaiin_ and the Moon is _oFar_? This would explain why the moon faces for the Sun and the Moon are swapped on f67r2, maybe it's beucase the Sun is where the Moon is supposed to be and vice versa. Are there any medieval myths or stories where the Sun and the Moon switch places? Something apocalyptic maybe, explaning the explosion-like feature at the center of f67r2?
+As you can see, the match is not particularly striking, but what surprised me is that, if matched like this, the labels on f72r3 go exactly in the order of the brightness of the planets, except the Sun and the Moon are swapped. The order is: the Moon, the Sun, Jupiter, Venus, Mercury, Mars, Saturn. Which begs the question, is it possible that the Sun is _yToaiin_ and the Moon is _oFar_? This would explain why the moon faces for the Sun and the Moon are swapped on f67r2, maybe it's beucase the Sun is where the Moon is supposed to be and vice versa. Are there any medieval myths or stories where the Sun and the Moon switch places? Something apocalyptic maybe, explaning the explosion-like feature at the center of f67r2?
 
 [![apocalyptic f67r2](images/kaboom.jpg)](#knowhere)
 
-The resuling layout would be as follows, the sequence naturally starts with the nymph wearing a crown.
+The resuling layout would be as follows, the sequence neatly starts with the nymph wearing a crown.
 
 [![f72r3 labels layout](images/f72r3layout.jpg)](#knowhere)
 
