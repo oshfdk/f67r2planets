@@ -20,7 +20,7 @@ As you can see, the match is not particularly striking, but what surprised me is
 
 [![apocalyptic f67r2](images/kaboom.jpg)](#knowhere)
 
-The resuling layout would be as follows, the sequence neatly starts with the nymph wearing a crown.
+The resulting layout would be as follows, the sequence neatly starts with the nymph wearing a crown.
 
 [![f72r3 labels layout](images/f72r3layout.jpg)](#knowhere)
 
