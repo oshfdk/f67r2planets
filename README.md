@@ -150,7 +150,7 @@ Interestingly, it's only the Mercury that has to switch to its night domicile (a
 
 [![domiciles and moon faces](images/daynight.jpg)](#knowhere)
 
-It looks as if the golden moons show night domiciles and the red moons daytime domiciles, but there is a problem. Two luminaries - the Sun and the Moon, which are marked as both day and night in Naibod 1560, are usually associated with the day and the night respectively. But on f67r2 the moon faces are swapped here, with the Moon sitting over a red moon and the Sun sitting over the golden moon.
+It looks as if the golden moons show night domiciles and the red moons daytime domiciles, but there is a problem. Two luminaries - the Sun and the Moon, which are marked as both day and night in Naibod 1560, are usually associated with the day and the night respectively. But on f67r2 the moon faces are swapped here, with the Moon sitting over a red moon and the Sun sitting over the golden moon. _I have a hypothesis that [the Moon and the Sun are actually swapped here](./noteon72r3.md), and this is what the moon faces indicate._
 
 What if we change the direction of Zodiac? This won't help, the Sun would be over the red moon, but the red moon would correspond to night-time domiciles for the rest of the planets.
 
