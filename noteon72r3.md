@@ -6,7 +6,7 @@ My favorite hypothesis on VMS writing is that it is a many-to-many character bas
 
 It is possible that a scheme like this would produce partially matching encoded text for the same plaintext, in character sequences or in structure. E.g., when encoding some word one of the outcomes could be BGGKLFGJ, another ACCKLFCJ, with G replaced by C and B by A and the rest of the letters remaining the same.
 
-So, after making a somewhat plausible astrological mapping between planet labels and planet names on f67r2, I've started poking around for other similar sequences of 7 labels in VMS. I've took what I thought was the tentative label for the Moon _yToaiin_ and searched for it in the transliteration of the manuscipt. The best match I found was _yToar_ on f72r3 (Cancer Zodiac). There are 7 nymphs walking/standing in the cental circle on this page, and there are 7 labels between the nymphs, _yToar_ being part of one of the labels. 
+So, after making a [somewhat plausible astrological](./README.md) mapping between planet labels and planet names on f67r2, I've started poking around for other similar sequences of 7 labels in VMS. I've took what I thought was the tentative label for the Moon _yToaiin_ and searched for it in the transliteration of the manuscipt. The best match I found was _yToar_ on f72r3 (Cancer Zodiac). There are 7 nymphs walking/standing in the cental circle on this page, and there are 7 labels between the nymphs, _yToar_ being part of one of the labels. 
 
 [![f72r3 with _yToar_ highlighted](images/f72r3ytoar.jpg)](#knowhere)
 
