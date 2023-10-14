@@ -52,7 +52,7 @@ There are two obvious problems with these simple schemes. First, there is still 
 
 [![encoding method from page 271 Secrètes](images/spacingcode.jpg)](#knowhere)
 
-Note that there is a possible mistake in this code, "offenser" is encoded with one "f", even though double "s" is preserved in "puisse". Overall, encoded books of the past tend to contain enourmous number of errors.
+Note that there is a possible mistake in this code, "offenser" is encoded with one "f", even though double "s" is preserved in "puisse". Overall, encoded books of the past tend to contain enormous number of errors.
 
 The other problem: any particular word, say, "watermelon" will always encode to the same sequence of marks, which is a disaster for an illustrated book. Find one page with a picture of a watermelon, study the patterns and you can uncover hidden watermelons anywhere in the book. How can we fix this?
 
