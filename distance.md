@@ -136,6 +136,8 @@ Interestingly, even though the cloud (or Rosettes?)-like thing at the center of 
 
 The only quarter on the 17x4 band that is more or less evenly spaced is the top one, and it occupies approximately 91° of the arc _from o to the final symbol of the sequence_. The angle from the first _o_ to the second _o_ is roughly 96.5°. If the top part is the secret ruler, it could be designed to mark 16 intervals on 1/4 of a circle. Average spacing between the marks is 5.6° or roughly 6 mm, if we take the width of the page to be 16.2 cm.
 
+### Start sequence
+
 But this is probably not the most interesting thing on f57v, for our discussion. Let's have a good look at the following fragment: the start of the outer ring. The entry point to the whole f57v chart. This thing:
 
 [![f57v start here](images/starthere.jpg)](#knowhere)
