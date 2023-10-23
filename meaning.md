@@ -98,12 +98,14 @@ Let's check the size of the block that contains both labels on f72r3, I've highl
 
 Both prefixes belong to a clearly separate block of 7 labels going in circle between seven nymphs, which is very convenient for our task. So what is the probability of these two prefixes from our list from f67r2 to appear again by chance in a block of seven labels in a different location in the manuscript? Before we proceed with the calculations, it's very important to note that the choice of f67r2 was not random or a result of any brute-force enumeration. It was a result of tentative identification of planet correspondences that we [made earlier](./README.md). Should our analysis involve comparison of all sequences in the manuscript to all other sequences in the manuscript, we'd have to correct for the number of attempts that we make, but we don't have to do this if we start with a particular sequence in the manuscript.
 
-Let's compute some basic statistics from the transliteration file. I'll be using a transliteration file created by Renè Zandbergen, downloaded from [https://www.voynich.nu/transcr.html](https://www.voynich.nu/transcr.html). In the following excerpts I'll be using UNIX shell commands to extract some statistical information from this file. If you are not familiar with the UNIX shell, you can just read these snippets as follows: each piece consists of a hash sigh "#" followed by a comment where I explain what I'm going to do, then on a separate line there is a command that starts with ">", and then there is the answer that the command produced. To follow the argument, you can just ignore all lines that start with '>' and read the rest.
+Let's compute some basic statistics from the transliteration file. I'll be using transliteration file created by Renè Zandbergen and Gabriel Landini, downloaded from [https://www.voynich.nu/transcr.html](https://www.voynich.nu/transcr.html). In the following excerpts I'll be using UNIX shell commands to extract some statistical information from this file. If you are not familiar with the UNIX shell, you can just read these snippets as follows: each piece consists of a hash sigh "#" followed by a comment where I explain what I'm going to do, then on a separate line there is a command that starts with ">", and then there is the answer that the command produced. To follow the argument, you can just ignore all lines that start with '>' and read the rest.
 
 ```
 # checking the version of the transliteration file
-> cat zl.txt | head -n 1 | egrep -o "[^#]*"
+> cat zl.txt | head -n 3 | egrep -o "[^#]*"
 =IVTFF Eva- 1.7
+ ZL transliteration file, updated from EVMT project
+ Version 1r of 11/04/2020
 
 # approximately how many words tokens are there, considering only
 # lines that start with "<f" and ignoring uncertain spaces
