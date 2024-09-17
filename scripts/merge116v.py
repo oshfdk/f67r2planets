@@ -1,5 +1,5 @@
 # created by oshfdk
-# a proof of obtaining a sigrature-like feature at the lower right corner of f116v
+# a proof of obtaining a signature-like feature at the lower right corner of f116v
 # by a linear combination of MSI TIFFs taken by Roger Easton
 # for background information see 
 # https://www.voynich.ninja/thread-4363.html (including my posts)
